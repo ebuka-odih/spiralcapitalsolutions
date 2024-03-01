@@ -32,7 +32,6 @@
   <link href="https://bootstrapmade.com/demo/templates/BizLand/assets/css/style.css" rel="stylesheet">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" integrity="sha384-4LISF5TTJX/fLmGSxO53rV4miRxdg84mZsxmO8Rx5jGtp/LbrixFETvWa5a6sESd" crossorigin="anonymous">
-<!--    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.0/css/boxicons.min.css" integrity="sha512-pVCM5+SN2+qwj36KonHToF2p1oIvoU3bsqxphdOIWMYmgr4ZqD3t5DjKvvetKhXGc/ZG5REYTT6ltKfExEei/Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <!-- Vendor CSS Files -->
   <!-- <link href="/assets/css/aos.css" rel="stylesheet">
@@ -59,14 +58,8 @@
   <section id="topbar" class="d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope d-flex align-items-center"><a href="https://bootstrapmade.com/cdn-cgi/l/email-protection#4b2824253f2a283f0b2e332a263b272e65282426"><span class="__cf_email__" data-cfemail="5e3d31302a3f3d2a1e3b263f332e323b703d3133">[email&#160;protected]</span></a></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+1 5589 55488 55</span></i>
-      </div>
-      <div class="social-links d-none d-md-flex align-items-center">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+        <i class="bi bi-envelope d-flex align-items-center"><a href="https://bootstrapmade.com/cdn-cgi/l/email-protection#4b2824253f2a283f0b2e332a263b272e65282426"><span class="__cf_email__" >info@spiralcapitalsolution.com</span></a></i>
+<!--        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+1 5589 55488 55</span></i>-->
       </div>
     </div>
   </section>
@@ -75,7 +68,7 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="https://bootstrapmade.com/demo/templates/BizLand/index.html">Spiral CapitalSolutions<span>.</span></a></h1>
+      <h1 class="logo"><a href="/">Spiral CapitalSolutions<span>.</span></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt=""></a>-->
 
@@ -95,12 +88,25 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
-      <h1>Welcome to <span>Spiral Capital Solutions</span></h1>
-      <h2>We are team of talented designers making websites with Bootstrap</h2>
-      <div class="d-flex">
-        <a href="#about" class="btn-get-started scrollto">Get Started</a>
-        <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
-      </div>
+      <h1 style="">Welcome to <span>Spiral Capital Solutions</span></h1>
+      <h2>Private Hard Money Broker</h2>
+
+        <br><br>
+        <p style="font-weight: bold; margin-top 10px">Spiral Capital Solutions, LLC has been structuring and funding CRE transactions with integrity since 1999.  Over 25 years of experience in real estate investment, property management, escrow and closing, and commercial real estate lending.  Now offering Private Hard Money Broker services for non-owner occupied investment property.</p>
+        <br>
+        <h4>UNDER CONTRACT-GET FUNDED-CALL 206.717.5011 NOW</h4>
+        <div style="margin-top: 10px" class="row">
+           <div class="col-6">
+               <div class="d-flex">
+                   <a href="#about" class="btn-get-started scrollto">UNDER CONTRACT?- GET FUNDED</a>
+               </div>
+           </div>
+           <div class="col-6">
+               <div class="d-flex">
+                   <a href="#about" class="btn-get-started scrollto">IS IT WORTH BUYING?- GET DNA REPORT</a>
+               </div>
+           </div>
+        </div>
     </div>
   </section><!-- End Hero -->
 
@@ -153,41 +159,20 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>About</h2>
-          <h3>Find Out More <span>About Us</span></h3>
-          <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+          <h3>IT IS REALLY ALL <span>ABOUT YOU</span></h3>
         </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img src="https://bootstrapmade.com/demo/templates/BizLand/assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="/img/trading.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li>
-                <i class="bx bx-store-alt"></i>
-                <div>
-                  <h5>Ullamco laboris nisi ut aliquip consequat</h5>
-                  <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
-                </div>
-              </li>
-              <li>
-                <i class="bx bx-images"></i>
-                <div>
-                  <h5>Magnam soluta odio exercitationem reprehenderi</h5>
-                  <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
-                </div>
-              </li>
-            </ul>
+            <h5>YOU HAVE A DEAL AND YOU NEED FUNDS</h5>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+                You are the architect and builder of your future.
+                You invest in non-owner occupied 1-4 unit real estate to fix and flip or fix and hold as a rental investment.
+                You have a great deal under contract and you need funding, or you want to access capital with a cash-out refinance from property that you own.  I am a Certified Private Hard Money Broker with access to funds from hundreds of lender relationships.  Every deal is unique, and just like the right key opens a locked door, the details of your deal are key to finding you the right funding at the best rate and terms.
+                "Let's talk about getting your deal done!" - Mary Gervais, Certified Private Hard Money Broker
             </p>
           </div>
         </div>
