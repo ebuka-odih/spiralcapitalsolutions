@@ -11,7 +11,7 @@
   <meta name="robots" content="noindex, nofollow">
   <meta content="" name="description">
   <meta content="" name="keywords">
-    
+
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
@@ -64,7 +64,7 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="/">Spiral CapitalSolutions<span>.</span></a></h1>
+      <h2 class="logo"><a href="/">Spiral Capital Solutions LLC<span>.</span></a></h2>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt=""></a>-->
 
@@ -84,24 +84,29 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
-      <h1 style="">Welcome to <span>Spiral Capital Solutions</span></h1>
-      <h2>Private Hard Money Broker</h2>
+      <div style="text-align: center; text-transform: uppercase">
+          <h1 style="">Welcome to <span>Spiral Capital Solutions</span></h1>
+          <h2>Private Hard Money Broker</h2>
 
-        <br><br>
-        <p style="font-weight: bold; margin-top 10px">Spiral Capital Solutions, LLC has been structuring and funding CRE transactions with integrity since 1999.  Over 25 years of experience in real estate investment, property management, escrow and closing, and commercial real estate lending.  Now offering Private Hard Money Broker services for non-owner occupied investment property.</p>
-        <br>
-        <h4>UNDER CONTRACT-GET FUNDED-CALL 206.717.5011 NOW</h4>
-        <div style="margin-top: 10px" class="row">
-           <div class="col-6">
-               <div class="d-flex">
-                   <a href="#about" class="btn-get-started scrollto">UNDER CONTRACT?- GET FUNDED</a>
-               </div>
-           </div>
-           <div class="col-6">
-               <div class="d-flex">
-                   <a href="#about" class="btn-get-started scrollto">IS IT WORTH BUYING?- GET DNA REPORT</a>
-               </div>
-           </div>
+          <br><br>
+          <p style="font-weight: bold; margin-top 10px">Spiral Capital Solutions, LLC has been structuring and funding CRE transactions with integrity since 1999.  Over 25 years of experience in real estate investment, property management, escrow and closing, and commercial real estate lending.  Now offering Private Hard Money Broker services for non-owner occupied investment property.</p>
+          <br>
+          <h4>UNDER CONTRACT-GET FUNDED-CALL 206.717.5011 NOW</h4>
+
+      </div>
+        <div class="col-lg-8 offset-lg-2">
+            <div style="margin-top: 10px" class="row">
+                <div class="col-6">
+                    <div class="d-flex">
+                        <a href="#about" class="btn-get-started scrollto">UNDER CONTRACT?- GET FUNDED</a>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="d-flex">
+                        <a href="#about" class="btn-get-started scrollto">IS IT WORTH BUYING?- GET DNA REPORT</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
   </section><!-- End Hero -->
@@ -119,12 +124,12 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img src="/img/trading.jpg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
-            <h5>YOU HAVE A DEAL AND YOU NEED FUNDS</h5>
-            <p>
+<!--          <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">-->
+<!--            <img src="/img/trading.jpg" class="img-fluid" alt="">-->
+<!--          </div>-->
+          <div class="col-lg-8 offset-lg-2 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
+            <h5 style="text-align: center">YOU HAVE A DEAL AND YOU NEED FUNDS</h5>
+            <p style="text-align: center">
                 You are the architect and builder of your future.
                 You invest in non-owner occupied 1-4 unit real estate to fix and flip or fix and hold as a rental investment.
                 You have a great deal under contract and you need funding, or you want to access capital with a cash-out refinance from property that you own.  I am a Certified Private Hard Money Broker with access to funds from hundreds of lender relationships.  Every deal is unique, and just like the right key opens a locked door, the details of your deal are key to finding you the right funding at the best rate and terms.
@@ -202,10 +207,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <h3>INVESTING MADE <span>SIMPLE</span></h3>
-          <p>PRIVATE HARD MONEY FOR NON-OWNER OCCUPIED INVESTMENT PROPERTY</p>
-            <p>Loans not available, and no solicitation is intended in the following states: NV, UT, ND, SD, MN, NY, NJ, NC, VT</p>
+          <h3>INVESTING MADE SIMPLE </h3>
+          <p style="font-weight: lighter">PRIVATE HARD MONEY FOR NON-OWNER OCCUPIED INVESTMENT PROPERTY</p>
         </div>
 
         <div class="row">
